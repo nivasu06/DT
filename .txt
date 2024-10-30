@@ -1,0 +1,7 @@
+get
+http://localhost:3210/api/v3/app/events/672123aaf92a5963e2602ece?number=201
+http://localhost:3210/api/v3/app/events/67211c486a56cd5d5199173f?number=20&name=Sample%20Event
+post
+http://localhost:3210/api/v3/app/events
+delete
+http://localhost:3210/api/v3/app/events/672123aaf92a5963e2602ece
